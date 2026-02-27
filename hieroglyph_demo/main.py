@@ -44,7 +44,6 @@ from .hieroglyph_detection import (
     clone_repo,
     draw_bbs_lines,
     draw_classes,
-    load_Hierogloph_models,
     find_longest_lines,
     center_lines,
     process_and_label_image,
